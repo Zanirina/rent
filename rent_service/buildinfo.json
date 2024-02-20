@@ -1,0 +1,24 @@
+{
+  "buildings": [
+    {"address": "Abay 44",
+    "category": "Apartment",
+    "price": 170000,
+    "num_bedrooms": 2,
+    "square_footage": 37
+  },
+    {"address": "Trumpeter 156",
+    "category": "House",
+    "price": 260000,
+    "num_bedrooms": 5,
+    "square_footage": 115
+  },
+    {"address": "Goldendale 45",
+    "category": "Milana",
+    "price": "Star",
+    "num_bedrooms": "8-707-056-31-24",
+    "square_footage": "4321"
+  }
+  ]
+
+}
+

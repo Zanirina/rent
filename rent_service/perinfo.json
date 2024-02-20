@@ -1,0 +1,27 @@
+{
+  "users": [
+    {"login": "milo",
+    "name": "Milana",
+    "surname": "Star",
+    "utype": "Rent-giver",
+    "phonenumber": "8-707-056-31-24",
+    "password": "4321"
+  },
+    {"login": "nina",
+    "name": "Natasha",
+    "surname": "Krik",
+    "utype": "Rent-giver",
+    "phonenumber": "8-747-173-98-23",
+    "password": "7890"
+  },
+    {"login": "zari",
+    "name": "Zarina",
+    "surname": "Beketova",
+    "utype": "Rent-seeker",
+    "phonenumber": "8-700-016-78-44",
+    "password": "1234"
+  }
+  ]
+
+}
+
